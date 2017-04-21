@@ -5,6 +5,12 @@
 /* created by Eugenia Duncan */
 
 /*
+	This is a very old app I created as a beginning programmer, so feel free to improve or change the code.
+
+	It is only meant to be a type of practice blueprint (not production code) to help beginner programmers.
+*/
+
+/*
 SAMPLE DATABASE & TABLE TO USE IN DEMO:
 
 CREATE DATABASE `your_db` DEFAULT CHARACTER SET utf8;
@@ -150,7 +156,7 @@ function preparestringinput($input)
 }
 
 ?>
-
+<!-- Note:  This code is very old with minimal minor updates such the use of Bootstrap.  Other ugrades may be necessary over time. -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
