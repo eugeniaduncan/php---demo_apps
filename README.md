@@ -3,7 +3,7 @@
 
 Summary:
 
-This folder provides a demo of a few sample apps, including a simple admin program to quickly and easily insert usernames and passwords into a database (create_users.php).  The sample apps are conveniently located within a demo app at http://www.declaremath.com/demos.
+This folder provides a demo of a few sample apps, including a simple admin program to quickly and easily insert usernames and passwords into a database (create_users.php).  The sample apps are conveniently located within a demo app at https://www.declaremath.com/demos.
 
 The Sample Apps section of the Demo App contains two apps, a Create Users app and a Random Name app.  These apps can only be demonstrated live within the demo app given the appropriate login credentials.  However, see descriptions and visuals below.
 
